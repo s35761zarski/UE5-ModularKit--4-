@@ -5,3 +5,5 @@ Styl architektoniczny
 ambient.cg
 polyhaven
 textures.com
+
+każdy robi swoją część zadania we wlasnym branchu
